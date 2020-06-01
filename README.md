@@ -1,5 +1,5 @@
-# Progress
+# Progress Reports
 
 - Tambahan Asteroids 
-- Skybox Bluprint Inactive  
+- Skybox Blueprint Inactive  
 - Copy paste Enemy 
